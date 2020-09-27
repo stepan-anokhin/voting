@@ -1,8 +1,5 @@
 # Direct Public Voting Platform
 
-See [issues](https://github.com/stepan-anokhin/voting/projects/1)
-
-
 ## Goals and Requirements
 
 Goals of this project: 
@@ -22,3 +19,5 @@ It must be possible for any observer to prove that:
 
 It must be not possible for anyone including owner of the platform:
  * to determine which vote belongs to which person. 
+
+See [issues](https://github.com/stepan-anokhin/voting/projects/1)
