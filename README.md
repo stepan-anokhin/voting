@@ -1,5 +1,7 @@
 # Direct Public Voting Platform
 
+See [issues](https://github.com/stepan-anokhin/voting/projects/1)
+
 
 ## Goals and Requirements
 
